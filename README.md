@@ -30,6 +30,6 @@ Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e 
 ### Skills:
 
 - Python,      SQL,        ETL,     RPA,           Pandas,
-- GIT,         GITHub,     Hadoop,  Shell Bash,    VScode, 
+- GIT,         GITHub,     Hadoop,  Shell Bash,    VSCode, 
 - Docker,      HTML5,      CSS3,    WEBScraping,   Django, 
 - VirtualBox,  GNU/Linux,  API,     SEO HEAD,      Rede.
