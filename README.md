@@ -7,10 +7,10 @@
 
 ### Sobre mim
 
-👨🏼‍🏫 Estou na area de TI a mais de 10 anos. Trabalho como Administrador da ferramenta Remedy da BMC.
+💻 Estou na area de TI a mais de 10 anos. Trabalho como Administrador da ferramenta Remedy da BMC.
 Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máquina pela UNINOVE.
 
-### Cursos em andamento
+### 👨🏼‍🏫 Cursos em andamento
 - Curso preparatório LPIC-2
 - Mutirão DevOps
 - Descomplicando Docker
