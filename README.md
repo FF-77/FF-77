@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-franco-lp/)](https://www.linkedin.com/in/francisco-franco-lp/)
 
 
+### Sobre mim
+
 👨🏼‍🏫 Estou na area de TI a mais de 10 anos. Trabalho como Administrador da ferramenta Remedy da BMC.
 Atualmente estou fazendo minha Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máquina pela UNINOVE.
 
