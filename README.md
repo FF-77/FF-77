@@ -1,4 +1,4 @@
-## Olá sou Francisco Franco ou F.F.
+## Olá sou Francisco Franco.
 
 
 Atuo na area de TI a mais de 10 anos. Trabalho como Administrador da ferramenta Remedy da BMC.
