@@ -4,7 +4,7 @@
 Atuo na area de TI a mais de 10 anos. Trabalho como Administrador da ferramenta Remedy da BMC.
 
 
-### Certificados
+### Possuo alguns certificados
 
 - ITIL Foundation 
 - ITIL OSA 
