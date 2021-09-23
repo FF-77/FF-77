@@ -19,7 +19,7 @@ Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e 
 - Power BI Impressionador
 
 
-### Possuo alguns certificados
+### Certificados
 
 - ITIL Foundation 
 - ITIL OSA 
