@@ -1,4 +1,4 @@
-## 💻 Olá sou Francisco Franco.
+## 💻 Olá, sou Francisco Franco.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FF-77)](https://github.com/FF-77)
 
