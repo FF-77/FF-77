@@ -12,8 +12,6 @@ Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e 
 
 ### 👨🏼‍🏫 Cursos em andamento
 - Curso preparatório LPIC-2
-- Mutirão DevOps
-- Descomplicando Docker
 - Descomplicando Kubernetes
 - Python Impressionador
 - Power BI Impressionador
