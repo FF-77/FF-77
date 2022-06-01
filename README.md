@@ -7,8 +7,8 @@
 
 ### Sobre mim
 
-💻 Estou na area de TI a mais de 10 anos. Atuo como Analista de Sistemas ITSM (Remedy - BMC).
-Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máquina pela UNINOVE.
+💻 Estou na area de TI a mais de 10 anos. Atuo como Analista de Sistemas ITSM Pleno (Remedy - BMC).
+Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máquina pela UNINOVE - 2021/2022 Concluído.
 
 ### 👨🏼‍🏫 Cursos em andamento
 - Curso preparatório LPIC-2
@@ -31,3 +31,4 @@ Atualmente cursando Pós-Graduação "LATO SENSU" Em Inteligência Artificial e 
 - GIT,         GITHub,     Hadoop,  Shell Bash,    VSCode, 
 - Docker,      HTML5,      CSS3,    WEBScraping,   Flask, 
 - VirtualBox,  GNU/Linux,  API,     SEO HEAD,      Rede.
+- Kubernetes,  Jenkins.         
