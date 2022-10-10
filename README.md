@@ -9,10 +9,13 @@
 
 💻 Estou na area de TI a mais de 10 anos. Atuo como Analista de Sistemas ITSM Pleno (Remedy - BMC).
 Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máquina pela UNINOVE - 2021/2022 Concluído.
+Atualmente focado na cultura DevOps, estudando tecnologias e conceitos, pelo qual me senti direcionado e desafiado. 
 
 ### 👨🏼‍🏫 Cursos em andamento
+- DevOps Pro
 - Curso preparatório LPIC-2
 - Descomplicando Kubernetes
+- IngLês
 - Python Impressionador
 - Power BI Impressionador
 
@@ -27,8 +30,8 @@ Pós-Graduação "LATO SENSU" Em Inteligência Artificial e Aprendizado de Máqu
 
 ### Skills:
 
-- Python,      SQL,        ETL,     RPA,           Bootstrap,
-- GIT,         GITHub,     Hadoop,  Shell Bash,    VSCode, 
-- Docker,      HTML5,      CSS3,    WEBScraping,   Flask, 
-- VirtualBox,  GNU/Linux,  API,     SEO HEAD,      Rede.
-- Kubernetes,  Jenkins.         
+- Kubernetes,  Docker,     GIT,     Jenkins,     GITHub,
+- Python,      MariaDB,    Mysql,   Terraform,   Flask,
+- GCloud,      AWS,        Azure,   OracleCloud  Cloud digitalocean,
+- VirtualBox,  GNU/Linux,  API,     ETL,         Rede,
+- VSCode,      HTML5,      CSS3,    Bootstrap,   WEBScraping.
