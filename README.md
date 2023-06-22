@@ -13,7 +13,6 @@ Atualmente focado na cultura DevOps, estudando tecnologias e conceitos, pelo qua
 
 ### 👨🏼‍🏫 Cursos em andamento
 - DevOps Pro
-- Curso preparatório LPIC-2
 - Descomplicando Kubernetes
 - IngLês
 - Python Impressionador
